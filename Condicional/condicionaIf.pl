@@ -1,0 +1,1 @@
+eIgual(A,A).
